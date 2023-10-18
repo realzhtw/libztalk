@@ -1,0 +1,3 @@
+[submodule "extern/libvegan"]
+	path = extern/libvegan
+	url = https://github.com/realzhtw/libvegan.git
